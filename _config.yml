@@ -12,11 +12,11 @@ description: A MLLM/Agent Engineer at Alibaba-Inc（Taotian Group）
 avatar: https://raw.githubusercontent.com/barryclark/jekyll-now/master/images/jekyll-logo.png
 
 # 社交链接
-footer-links:
-  email: inscredion@stu.xmu.edu.cn
-  github: inscredion
-  scholar: # 建议填入你的 Google Scholar 链接
-  rss: true
+# footer-links:
+#   email: inscredion@stu.xmu.edu.cn
+#   github: inscredion
+#   scholar: # 建议填入你的 Google Scholar 链接
+#   rss: true
 
 # 个人网站配置
 # 你的 GitHub Pages 地址
