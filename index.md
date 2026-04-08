@@ -6,8 +6,6 @@ title: Chi Zhang
 ### 👨‍🔬 About Me
 I am Chi Zhang, A VLLM/Agent Engineer at **Alibaba**,  My interest include Multi-modal Learning and Agent. I recived Master degree in Xiamen University (XMU), China, in June. 2023, advised by [Prof. Xinghao Ding]() at [SmartDSP Lab](https://xmu-smartdsp.github.io/).
 
----
-
 ##### 📧 Contact Information
 * **Email:** [inscredion@stu.xmu.edu.cn](mailto:inscredion@stu.xmu.edu.cn) / [yinxi.zc@alibaba-inc.com](mailto:yinxi.zc@alibaba-inc.com)
 * **Links:** [GitHub](https://github.com/inscredion) / [CV](./assets/your_cv.pdf) / [OpenReview](https://openreview.net/profile?id=%7EChi_Zhang50)
@@ -22,7 +20,7 @@ I am Chi Zhang, A VLLM/Agent Engineer at **Alibaba**,  My interest include Multi
 ### 📚 Publications
 (* denotes equal contribution)
 - [**SIGIR 2026**] TRACE: Term-level Reasoning And Chain-of-thought Enhanced distillation for E-commerce Multi-modal Relevance Learning.
-   * Chenxu Wang*, **Chi Zhang*** (Co-first auther) ,etc.
+   * Chenxu Wang*, **Chi Zhang*** (Co-first author) ,etc.
 
 - [**SIGIR 2026**] STAR: Staged Training with Aligned Reinforcement Learning and Multi-Faceted Distillation for Interpretable E-commerce Relevance.
    * Chenxu Wang, Jianzhi Shao, **Chi Zhang**, Tao Zhang.
@@ -42,7 +40,7 @@ I am Chi Zhang, A VLLM/Agent Engineer at **Alibaba**,  My interest include Multi
 
 
 ### 🛠️ Professional Services (Reviewer)
-* IEEE Transactions on Medical Image, IEEE TNNLS
+* IEEE TMI, IEEE TNNLS
 ---
 
 
