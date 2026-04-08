@@ -5,26 +5,26 @@ title: Chi Zhang
 
 # 👨‍🔬 About Me
 
-Chi Zhang is a [Your Year, e.g., 2nd year] PhD student at **Xiamen University**, advised by [Advisor Name]. His research interests include [Interest 1], [Interest 2], and [Interest 3]. He is dedicated to solving [Specific Problem].
+I am Chi Zhang, A VLLM/Agent  Engineer at **Alibaba-Inc**,  My interest include Multi-modal Learning and Agent. I recived Master degree in Xiamen University (XMU), China, in June. 2023, advised by Prof. Xinghao Ding at SmartDSP Lab (https://xmu-smartdsp.github.io/).
 
 ---
 
+
+# 📢 News
+*   **[2026.04]** 🎉 Two paper accepted by [SIGIR 2026]!
+---
+
+
 ### 📧 Contact Information
-* **Email:** [inscredion@stu.xmu.edu.cn](mailto:inscredion@stu.xmu.edu.cn)
+* **Email:** [inscredion@stu.xmu.edu.cn](mailto:inscredion@stu.xmu.edu.cn) 
 * **Office:** [Building Name], Xiamen University, Fujian, China
 * **Links:** [Google Scholar](your_link) / [GitHub](https://github.com/inscredion) / [CV](./assets/your_cv.pdf)
 
 ---
 
-# 📢 News
-*   **[2023.10]** 🎉 One paper accepted by [Conference Name, e.g., CVPR 2024]!
-*   **[2023.09]** 🏆 Awarded the National Scholarship.
-*   **[2023.06]** ✈️ Attended the [Conference Name] in [Location].
-
----
 
 # 🎓 Education
-*   **Xiamen University (XMU)** | 20XX - Present
+*   **Xiamen University (XMU)** | 2023 - Present
     *   *Ph.D. in Computer Science*
 *   **[University Name]** | 20XX - 20XX
     *   *B.S. in Software Engineering*
