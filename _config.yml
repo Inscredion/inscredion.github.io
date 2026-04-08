@@ -9,7 +9,7 @@ name: Chi Zhang （inscredion）
 description: A MLLM/Agent Engineer at Alibaba-Inc（Taotian Group）
 
 # 你的头像地址 (建议换成你自己的照片)
-avatar: https://raw.githubusercontent.com/barryclark/jekyll-now/master/images/jekyll-logo.png
+avatar: ./images/myself.jpg
 
 # 社交链接
 # footer-links:
