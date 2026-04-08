@@ -20,27 +20,31 @@ I am Chi Zhang, A VLLM/Agent Engineer at **Alibaba**,  My interest include Multi
 ### 📚 Publications
 (* denotes equal contribution)
 - [**SIGIR 2026**] TRACE: Term-level Reasoning And Chain-of-thought Enhanced distillation for E-commerce Multi-modal Relevance Learning.
-   * Chenxu Wang*, **Chi Zhang*** (Co-first author) ,etc.
+   * Chenxu Wang*, **Chi Zhang*** (Co-first author) ,etc. <br/>
+     
 
 - [**SIGIR 2026**] STAR: Staged Training with Aligned Reinforcement Learning and Multi-Faceted Distillation for Interpretable E-commerce Relevance.
-   * Chenxu Wang, Jianzhi Shao, **Chi Zhang**, Tao Zhang.
+   * Chenxu Wang, Jianzhi Shao, **Chi Zhang**, Tao Zhang. <br/>
+
 
 
 - [**Preprint** 2025] Exploring Siamese Networks in Self-Supervised Fast MRI Reconstruction.
-   * Liyan Sun*, Shaocong Yu*, **Chi Zhang** and Xinghao Ding.
+   * Liyan Sun*, Shaocong Yu*, **Chi Zhang** and Xinghao Ding. <br/>
+
  
 - [**UnderView** 2024] Scattering Remover: A Simple and Unified Approach for Unsupervised Image Restoration.
-   * **Chi Zhang**, Zhenqi Fu, Xiuna Zeng, Xinghao Ding.
+   * **Chi Zhang**, Zhenqi Fu, Xiuna Zeng, Xinghao Ding. <br/>
+
 
 - [**IEEE TMI** 2023] Toward Better Generalization Using Synthetic Data: A Domain Adaptation Framework for T2 Mapping via Multiple Overlapping-Echo Acquisition.
-   * **Chi Zhang**, Qizhi Yang, Linyu Fan, Shaocong Yu, Liyan Sun, Congbo Cai, Xinghao Ding.
+   * **Chi Zhang**, Qizhi Yang, Linyu Fan, Shaocong Yu, Liyan Sun, Congbo Cai, Xinghao Ding. <br/>
 
 
 ---
 
 
 ### 🛠️ Professional Services (Reviewer)
-* IEEE TMI, IEEE TNNLS
+  * IEEE TMI, IEEE TNNLS
 ---
 
 
