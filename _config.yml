@@ -3,10 +3,10 @@
 #
 
 # 你的名字
-name: Chi Zhang （inscredioin）
+name: Chi Zhang （inscredion）
 
 # 简短的学术头衔
-description: PhD Student / Researcher in [Your Field] at Xiamen University
+description: A MLLM/Agent Engineer at Alibaba-Inc（Taotian Group）
 
 # 你的头像地址 (建议换成你自己的照片)
 avatar: https://raw.githubusercontent.com/barryclark/jekyll-now/master/images/jekyll-logo.png
@@ -15,8 +15,6 @@ avatar: https://raw.githubusercontent.com/barryclark/jekyll-now/master/images/je
 footer-links:
   email: inscredion@stu.xmu.edu.cn
   github: inscredion
-  linkedin: # 建议填入你的领英用户名
-  twitter: # 建议填入你的推特用户名
   scholar: # 建议填入你的 Google Scholar 链接
   rss: true
 
