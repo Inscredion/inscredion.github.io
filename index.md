@@ -44,14 +44,14 @@ I am Chi Zhang, A VLLM/Agent Engineer at **Alibaba**,  My interest include Multi
 
 
 ### 🛠️ Professional Services (Reviewer)
-    * IEEE TMI, IEEE TNNLS
+     IEEE TMI, IEEE TNNLS
     
 ---
 
 
 ### 🎓 Education
-  - Xiamen University (XMU)   | 2020 - 2023 |  Master
-  - Shaanxi Normal University | 2014 - 2018 |  B.S
+  - Xiamen University (XMU)   -  2020 - 2023  -  Master
+  - Shaanxi Normal University -  2014 - 2018  -   B.S
     
 ---
 
