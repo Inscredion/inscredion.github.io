@@ -6,9 +6,9 @@ title: Chi Zhang | Home
 <!-- 顶部简介区 -->
 <table>
   <tr>
-    <td width="75%" style="vertical-align: top; border: none;">
-      <h1>Chi Zhang (inscredion)</h1>
-      <p><b>MLLM / Agent Algorithm Engineer @ Alibaba</b></p>
+    <td style="vertical-align: top; border: none;">
+      <!-- <h1>Chi Zhang (inscredion)</h1> -->
+      <!-- <p><b>MLLM / Agent Algorithm Engineer @ Alibaba</b></p> -->
       <p>I am currently an Algorithm Engineer at <b>Alibaba Group</b>. My research and work focus on <b>Multi-modal Large Language Models (MLLMs)</b> and <b>Agents</b>. I received my Master's degree from <b>Xiamen University (XMU)</b> in 2023, where I was privileged to be advised by <a href="https://smartdsp.xmu.edu.cn/ding-en.html">Prof. Xinghao Ding</a> at the <a href="https://xmu-smartdsp.github.io/">SmartDSP Lab</a>.</p>
       <p>
         📧 <b>Email:</b> <a href="mailto:inscredion@stu.xmu.edu.cn">inscredion@stu.xmu.edu.cn</a> / <a href="mailto:yinxi.zc@alibaba-inc.com">yinxi.zc@alibaba-inc.com</a> <br>
@@ -18,17 +18,17 @@ title: Chi Zhang | Home
         <a href="#"><b>[Google Scholar]</b></a>
       </p>
     </td>
-    <td width="25%" style="vertical-align: top; border: none; text-align: right;">
+    <!-- <td width="25%" style="vertical-align: top; border: none; text-align: right;">
       <!-- 替换为你自己的头像图片地址 -->
-      <img src="https://raw.githubusercontent.com/barryclark/jekyll-now/master/images/jekyll-logo.png" width="150px" style="border-radius: 8px; box-shadow: 0 4px 8px rgba(0,0,0,0.1);">
-    </td>
+      <!-- <img src="https://raw.githubusercontent.com/barryclark/jekyll-now/master/images/jekyll-logo.png" width="150px" style="border-radius: 8px; box-shadow: 0 4px 8px rgba(0,0,0,0.1);"> -->
+    <!-- </td> -->
   </tr>
 </table>
 
 ---
 
 ### 📢 News
-*   **[2026.04]** 🎉 Two papers on E-commerce relevance were accepted by **SIGIR 2026**!
+*   **[2026.04]** 🎉 Two papers on Reasoning E-commerce relevance were accepted by **SIGIR 2026**!
 
 ---
 
