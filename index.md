@@ -3,71 +3,60 @@ layout: default
 title: Chi Zhang
 ---
 
-# 👨‍🔬 About Me
-
-I am Chi Zhang, A VLLM/Agent  Engineer at **Alibaba-Inc**,  My interest include Multi-modal Learning and Agent. I recived Master degree in Xiamen University (XMU), China, in June. 2023, advised by Prof. Xinghao Ding at SmartDSP Lab (https://xmu-smartdsp.github.io/).
+### 👨‍🔬 About Me
+I am Chi Zhang, A VLLM/Agent Engineer at **Alibaba**,  My interest include Multi-modal Learning and Agent. I recived Master degree in Xiamen University (XMU), China, in June. 2023, advised by [Prof. Xinghao Ding]() at [SmartDSP Lab](https://xmu-smartdsp.github.io/).
 
 ---
 
+##### 📧 Contact Information
+* **Email:** [inscredion@stu.xmu.edu.cn](mailto:inscredion@stu.xmu.edu.cn) / [yinxi.zc@alibaba-inc.com](mailto:yinxi.zc@alibaba-inc.com)
+* **Links:** [GitHub](https://github.com/inscredion) / [CV](./assets/your_cv.pdf) / [OpenReview](https://openreview.net/profile?id=%7EChi_Zhang50)
 
-# 📢 News
+---
+
+### 📢 News
 *   **[2026.04]** 🎉 Two paper accepted by [SIGIR 2026]!
+  
 ---
 
-
-### 📧 Contact Information
-* **Email:** [inscredion@stu.xmu.edu.cn](mailto:inscredion@stu.xmu.edu.cn) 
-* **Office:** [Building Name], Xiamen University, Fujian, China
-* **Links:** [Google Scholar](your_link) / [GitHub](https://github.com/inscredion) / [CV](./assets/your_cv.pdf)
-
----
-
-
-# 🎓 Education
-*   **Xiamen University (XMU)** | 2023 - Present
-    *   *Ph.D. in Computer Science*
-*   **[University Name]** | 20XX - 20XX
-    *   *B.S. in Software Engineering*
-
----
-
-# 💼 Work Experience
-*   **[Company/Lab Name]** | [Role, e.g., Research Intern]
-    *   *Duration:* 20XX.MM - 20XX.MM
-    *   *Topic:* Developed an algorithm for ...
-*   **[Other Company]** | [Role]
-    *   *Duration:* 20XX.MM - 20XX.MM
-
----
-
-# 📚 Publications
+### 📚 Publications
 (* denotes equal contribution)
+- [**SIGIR 2026**] TRACE: Term-level Reasoning And Chain-of-thought Enhanced distillation for E-commerce Multi-modal Relevance Learning.
+   * Chenxu Wang*, **Chi Zhang*** (Co-first auther) ,etc.
 
-### 2024
-*   **Your Paper Title Here**
-    *   **Chi Zhang**, Author 2, Author 3.
-    *   *Conference/Journal Name (CCF-A)*, 2024.
-    *   [Paper Link] / [Code] / [Project Page]
+- [**SIGIR 2026**] STAR: Staged Training with Aligned Reinforcement Learning and Multi-Faceted Distillation for Interpretable E-commerce Relevance.
+   * Chenxu Wang, Jianzhi Shao, **Chi Zhang**, Tao Zhang.
 
-### 2023
-*   **Another Awesome Research Paper**
-    *   Author 1, **Chi Zhang**, Author 3.
-    *   *Conference Name*, 2023.
-    *   [Paper Link] / [Demo]
 
----
+- [**Preprint** 2025] Exploring Siamese Networks in Self-Supervised Fast MRI Reconstruction.
+   * Liyan Sun*, Shaocong Yu*, **Chi Zhang** and Xinghao Ding.
+ 
+- [**UnderView** 2024] Scattering Remover: A Simple and Unified Approach for Unsupervised Image Restoration.
+   * **Chi Zhang**, Zhenqi Fu, Xiuna Zeng, Xinghao Ding.
 
-# 🛠️ Professional Services (Reviewer)
-*   **Journal Reviewer:**
-    *   IEEE Transactions on [Journal Name]
-    *   Elsevier [Journal Name]
-*   **Conference Program Committee (PC Member / Reviewer):**
-    *   CVPR, ICCV, ECCV (2023, 2024)
-    *   NeurIPS, ICML (2024)
+- [**IEEE TMI** 2023] Toward Better Generalization Using Synthetic Data: A Domain Adaptation Framework for T2 Mapping via Multiple Overlapping-Echo Acquisition.
+   * **Chi Zhang**, Qizhi Yang, Linyu Fan, Shaocong Yu, Liyan Sun, Congbo Cai, Xinghao Ding.
+
 
 ---
 
-# 🏆 Honors & Awards
-*   National Scholarship, 2023
-*   First-class Academic Scholarship, 2022
-*   Excellent Graduate of [University Name], 20XX
+
+### 🛠️ Professional Services (Reviewer)
+* IEEE Transactions on Medical Image, IEEE TNNLS
+---
+
+
+### 🎓 Education
+*   **Xiamen University (XMU)**   | 2020 - 2023 |  Master
+*   **Shaanxi Normal University** | 2014 - 2018 |  B.S
+---
+
+### 💼 Work Experience
+*   **[Alibaba - Inc]** | [Senior Algorithm Engineer]
+    *   *Duration:* 2025.08 - Now
+    *   *Topic:* Multi-Modal/Agent 
+*   **[Zhejiang Dhaka Technology LTD.]** | [Algorithm Engineer]
+    *   *Duration:* 2023.07 - 2025.07
+    *   *Topic:* Multi-Modal
+
+---
