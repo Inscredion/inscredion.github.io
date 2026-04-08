@@ -57,7 +57,7 @@ I am Chi Zhang, A VLLM/Agent Engineer at **Alibaba**,  My interest include Multi
 *   **[Alibaba - Inc]** | [Senior Algorithm Engineer]
     *   *Duration:* 2025.08 - Now
     *   *Topic:* Multi-Modal/Agent 
-*   **[Zhejiang Dhaka Technology LTD.]** | [Algorithm Engineer]
+*   **[Zhejiang Dahua Technology LTD.]** | [Algorithm Engineer]
     *   *Duration:* 2023.07 - 2025.07
     *   *Topic:* Multi-Modal
 
