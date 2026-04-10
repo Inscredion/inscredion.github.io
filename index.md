@@ -15,7 +15,7 @@ title: Chi Zhang | Home
         🔗 <b>Links:</b> 
         <a href="https://github.com/inscredion"><b>[GitHub]</b></a> 
         <a href="https://openreview.net/profile?id=%7EChi_Zhang50"><b>[OpenReview]</b></a> 
-        <a href="#"><b>[Google Scholar]</b></a>
+        <a href="https://orcid.org/0009-0001-7624-439X"><b>[ORCID]</b></a>
       </p>
     </td>
     <!-- <td width="25%" style="vertical-align: top; border: none; text-align: right;">
