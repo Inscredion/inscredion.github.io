@@ -64,16 +64,16 @@ title: Chi Zhang | Home
     *   IEEE Transactions on Neural Networks and Learning Systems (TNNLS)
 
 ### 💼 Work Experience
-*   **Alibaba Group** | *Senior Algorithm Engineer* | 2025.08 - Present
+*   **Alibaba Group** /|*Senior Algorithm Engineer* / 2025.08 - Present
     *   Focus on Multi-modal Learning and Agent-based systems.
-*   **Zhejiang Dahua Technology** | *Algorithm Engineer* | 2023.07 - 2025.07
+*   **Zhejiang Dahua Technology** / *Algorithm Engineer* / 2023.07 - 2025.07
     *   Research and development in Multi-modal vision algorithms.
 
 ---
 
 ### 🎓 Education
-*   **Xiamen University (XMU)** | *Master* | 2020.09 - 2023.06
-*   **Shaanxi Normal University (SNNU)** | *Bachelor* | 2014.09 - 2018.06
+*   **Xiamen University (XMU)** /Master/  2020.09 - 2023.06
+*   **Shaanxi Normal University (SNNU)** /Bachelor/  2014.09 - 2018.06
 
 ---
 
