@@ -38,7 +38,7 @@ title: Chi Zhang | Home
 
 *   **TRACE: Term-level Reasoning And Chain-of-thought Enhanced distillation for E-commerce Multi-modal Relevance Learning**  
     Chenxu Wang\*, **Chi Zhang**\*, et al.  
-    *SIGIR*, 2026. [<font color="#2e64fe">Coming Soon</font>]
+    *SIGIR*, 2026.
 
 *   **STAR: Staged Training with Aligned Reinforcement Learning and Multi-Faceted Distillation for Interpretable E-commerce Relevance**  
     Chenxu Wang, Jianzhi Shao, **Chi Zhang**, Tao Zhang.  
